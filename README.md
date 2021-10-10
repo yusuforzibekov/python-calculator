@@ -1,0 +1,2 @@
+# PY-calculator
+Kichik kalkulyator
