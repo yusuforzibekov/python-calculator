@@ -13,7 +13,7 @@ This Python program is a simple calculator that allows the user to perform basic
 4) Finally, the program prints the result 'c' along with the label "Result =".
 # How to Use:
 
-1) Run the program. Typing <br>
+1) Run the program. Typing:
     python test.py
 2) Enter an integer value for 'a' when prompted. <br>
 3) Enter another integer value for 'b' when prompted. <br>
