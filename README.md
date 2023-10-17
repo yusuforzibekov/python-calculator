@@ -12,8 +12,8 @@ This Python program is a simple calculator that allows the user to perform basic
 +   If 'amal' doesn't match any of these operations, it sets 'c' to 'Error.'
 4) Finally, the program prints the result 'c' along with the label "Result =".
 # How to Use:
-<ul><li>Run the program. Typing: </li></ul><br>
-    python test.py
+<ol><li>Run the program. Typing: </li></ol><br>
+````python test.py````
 2) Enter an integer value for 'a' when prompted. <br>
 3) Enter another integer value for 'b' when prompted. <br>
 4) Choose one of the four operations ('add,' 'sub,' 'mul,' or 'div') by entering the corresponding operation as 'amal.' <br>
